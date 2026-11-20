@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "crashs-legacy",
+  "version": "${version}",
+  "name": "Crashs Legacy",
+  "description": "A small 1.21.11 client feature collection: kill feedback HUD, sounds and server damage display controls.",
+  "authors": [
+    "Crashs"
+  ],
+  "license": "GPL-3.0-or-later",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.crashs.crashslegacy.CrashsLegacyMod"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "crashs-legacy.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">=1.14.1+kotlin.2.4.20"
+  }
+}

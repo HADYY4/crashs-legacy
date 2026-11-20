@@ -1,0 +1,529 @@
+{
+  "killfeed.combokillsound_1_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_1_cf"
+    ]
+  },
+  "killfeed.combokillsound_2_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_2_cf"
+    ]
+  },
+  "killfeed.combokillsound_3_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_3_cf"
+    ]
+  },
+  "killfeed.combokillsound_4_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_4_cf"
+    ]
+  },
+  "killfeed.combokillsound_5_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_5_cf"
+    ]
+  },
+  "killfeed.combokillsound_6_cf": {
+    "sounds": [
+      "crashs-legacy:killfeed/combokillsound_6_cf"
+    ]
+  },
+  "killfeed.valorant_bubblegumdeathwishkill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_bubblegumdeathwishkill_1"
+    ]
+  },
+  "killfeed.valorant_bubblegumdeathwishkill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_bubblegumdeathwishkill_2"
+    ]
+  },
+  "killfeed.valorant_bubblegumdeathwishkill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_bubblegumdeathwishkill_3"
+    ]
+  },
+  "killfeed.valorant_bubblegumdeathwishkill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_bubblegumdeathwishkill_4"
+    ]
+  },
+  "killfeed.valorant_bubblegumdeathwishkill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_bubblegumdeathwishkill_5"
+    ]
+  },
+  "killfeed.valorant_champions2021kill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_champions2021kill_1"
+    ]
+  },
+  "killfeed.valorant_champions2021kill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_champions2021kill_2"
+    ]
+  },
+  "killfeed.valorant_champions2021kill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_champions2021kill_3"
+    ]
+  },
+  "killfeed.valorant_champions2021kill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_champions2021kill_4"
+    ]
+  },
+  "killfeed.valorant_champions2021kill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_champions2021kill_5"
+    ]
+  },
+  "killfeed.valorant_gaiakill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiakill_1"
+    ]
+  },
+  "killfeed.valorant_gaiakill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiakill_2"
+    ]
+  },
+  "killfeed.valorant_gaiakill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiakill_3"
+    ]
+  },
+  "killfeed.valorant_gaiakill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiakill_4"
+    ]
+  },
+  "killfeed.valorant_gaiakill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiakill_5"
+    ]
+  },
+  "killfeed.valorant_gaiavengeancekill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiavengeancekill_1"
+    ]
+  },
+  "killfeed.valorant_gaiavengeancekill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiavengeancekill_2"
+    ]
+  },
+  "killfeed.valorant_gaiavengeancekill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiavengeancekill_3"
+    ]
+  },
+  "killfeed.valorant_gaiavengeancekill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiavengeancekill_4"
+    ]
+  },
+  "killfeed.valorant_gaiavengeancekill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_gaiavengeancekill_5"
+    ]
+  },
+  "killfeed.valorant_glitchpopkill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_glitchpopkill_1"
+    ]
+  },
+  "killfeed.valorant_glitchpopkill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_glitchpopkill_2"
+    ]
+  },
+  "killfeed.valorant_glitchpopkill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_glitchpopkill_3"
+    ]
+  },
+  "killfeed.valorant_glitchpopkill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_glitchpopkill_4"
+    ]
+  },
+  "killfeed.valorant_glitchpopkill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_glitchpopkill_5"
+    ]
+  },
+  "killfeed.valorant_preludetochaoskill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_preludetochaoskill_1"
+    ]
+  },
+  "killfeed.valorant_preludetochaoskill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_preludetochaoskill_2"
+    ]
+  },
+  "killfeed.valorant_preludetochaoskill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_preludetochaoskill_3"
+    ]
+  },
+  "killfeed.valorant_preludetochaoskill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_preludetochaoskill_4"
+    ]
+  },
+  "killfeed.valorant_preludetochaoskill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_preludetochaoskill_5"
+    ]
+  },
+  "killfeed.valorant_primekill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primekill_1"
+    ]
+  },
+  "killfeed.valorant_primekill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primekill_2"
+    ]
+  },
+  "killfeed.valorant_primekill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primekill_3"
+    ]
+  },
+  "killfeed.valorant_primekill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primekill_4"
+    ]
+  },
+  "killfeed.valorant_primekill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primekill_5"
+    ]
+  },
+  "killfeed.valorant_primordiumkill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primordiumkill_1"
+    ]
+  },
+  "killfeed.valorant_primordiumkill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primordiumkill_2"
+    ]
+  },
+  "killfeed.valorant_primordiumkill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primordiumkill_3"
+    ]
+  },
+  "killfeed.valorant_primordiumkill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primordiumkill_4"
+    ]
+  },
+  "killfeed.valorant_primordiumkill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_primordiumkill_5"
+    ]
+  },
+  "killfeed.valorant_radiantcrisis001kill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_radiantcrisis001kill_1"
+    ]
+  },
+  "killfeed.valorant_radiantcrisis001kill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_radiantcrisis001kill_2"
+    ]
+  },
+  "killfeed.valorant_radiantcrisis001kill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_radiantcrisis001kill_3"
+    ]
+  },
+  "killfeed.valorant_radiantcrisis001kill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_radiantcrisis001kill_4"
+    ]
+  },
+  "killfeed.valorant_radiantcrisis001kill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_radiantcrisis001kill_5"
+    ]
+  },
+  "killfeed.valorant_rgx11zprokill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_rgx11zprokill_1"
+    ]
+  },
+  "killfeed.valorant_rgx11zprokill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_rgx11zprokill_2"
+    ]
+  },
+  "killfeed.valorant_rgx11zprokill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_rgx11zprokill_3"
+    ]
+  },
+  "killfeed.valorant_rgx11zprokill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_rgx11zprokill_4"
+    ]
+  },
+  "killfeed.valorant_rgx11zprokill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_rgx11zprokill_5"
+    ]
+  },
+  "killfeed.valorant_singularitykill_1": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_singularitykill_1"
+    ]
+  },
+  "killfeed.valorant_singularitykill_2": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_singularitykill_2"
+    ]
+  },
+  "killfeed.valorant_singularitykill_3": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_singularitykill_3"
+    ]
+  },
+  "killfeed.valorant_singularitykill_4": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_singularitykill_4"
+    ]
+  },
+  "killfeed.valorant_singularitykill_5": {
+    "sounds": [
+      "crashs-legacy:killfeed/valorant_singularitykill_5"
+    ]
+  },
+  "killfeed.cardkillsound_crit_cs": {
+    "sounds": [
+      "crashs-legacy:killfeed/cardkillsound_crit_cs"
+    ]
+  },
+  "killfeed.cardkillsound_explosion_cs": {
+    "sounds": [
+      "crashs-legacy:killfeed/cardkillsound_explosion_cs"
+    ]
+  },
+  "killfeed.cardkillsound_headshot_cs": {
+    "sounds": [
+      "crashs-legacy:killfeed/cardkillsound_headshot_cs"
+    ]
+  },
+  "killfeed.collisionkillsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/collisionkillsound_df"
+    ]
+  },
+  "killfeed.critkillsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/critkillsound_df"
+    ]
+  },
+  "killfeed.explosionkillsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/explosionkillsound_df"
+    ]
+  },
+  "killfeed.headshotkillsound_bf1": {
+    "sounds": [
+      "crashs-legacy:killfeed/headshotkillsound_bf1"
+    ]
+  },
+  "killfeed.headshotkillsound_bf5": {
+    "sounds": [
+      "crashs-legacy:killfeed/headshotkillsound_bf5"
+    ]
+  },
+  "killfeed.headshotkillsound_bf6": {
+    "sounds": [
+      "crashs-legacy:killfeed/headshotkillsound_bf6"
+    ]
+  },
+  "killfeed.headshotkillsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/headshotkillsound_df"
+    ]
+  },
+  "killfeed.hitsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/hitsound_df"
+    ]
+  },
+  "killfeed.honorkillsound_high": {
+    "sounds": [
+      "crashs-legacy:killfeed/honorkillsound_high"
+    ]
+  },
+  "killfeed.honorkillsound_normal": {
+    "sounds": [
+      "crashs-legacy:killfeed/honorkillsound_normal"
+    ]
+  },
+  "killfeed.killsound_bf1": {
+    "sounds": [
+      "crashs-legacy:killfeed/killsound_bf1"
+    ]
+  },
+  "killfeed.killsound_bf5": {
+    "sounds": [
+      "crashs-legacy:killfeed/killsound_bf5"
+    ]
+  },
+  "killfeed.killsound_bf6": {
+    "sounds": [
+      "crashs-legacy:killfeed/killsound_bf6"
+    ]
+  },
+  "killfeed.killsound_df": {
+    "sounds": [
+      "crashs-legacy:killfeed/killsound_df"
+    ]
+  },
+  "killfeed.vehiclekillsound_bf5": {
+    "sounds": [
+      "crashs-legacy:killfeed/vehiclekillsound_bf5"
+    ]
+  },
+  "lightning.aimbooster": {
+    "sounds": [
+      "crashs-legacy:funnysound/aimbooster"
+    ]
+  },
+  "lightning.applepay": {
+    "sounds": [
+      "crashs-legacy:funnysound/applepay"
+    ]
+  },
+  "lightning.bonk": {
+    "sounds": [
+      "crashs-legacy:funnysound/bonk"
+    ]
+  },
+  "lightning.boykisser": {
+    "sounds": [
+      "crashs-legacy:funnysound/boykisser-1",
+      "crashs-legacy:funnysound/boykisser-2",
+      "crashs-legacy:funnysound/boykisser-3",
+      "crashs-legacy:funnysound/boykisser-4",
+      "crashs-legacy:funnysound/boykisser-5",
+      "crashs-legacy:funnysound/boykisser-6"
+    ]
+  },
+  "lightning.brick": {
+    "sounds": [
+      "crashs-legacy:funnysound/brick"
+    ]
+  },
+  "lightning.bring": {
+    "sounds": [
+      "crashs-legacy:funnysound/bring"
+    ]
+  },
+  "lightning.bump": {
+    "sounds": [
+      "crashs-legacy:funnysound/bump"
+    ]
+  },
+  "lightning.click": {
+    "sounds": [
+      "crashs-legacy:funnysound/click-1",
+      "crashs-legacy:funnysound/click-2",
+      "crashs-legacy:funnysound/click-3"
+    ]
+  },
+  "lightning.coin": {
+    "sounds": [
+      "crashs-legacy:funnysound/coin"
+    ]
+  },
+  "lightning.glass": {
+    "sounds": [
+      "crashs-legacy:funnysound/glass-1",
+      "crashs-legacy:funnysound/glass-2",
+      "crashs-legacy:funnysound/glass-3"
+    ]
+  },
+  "lightning.magic_squash": {
+    "sounds": [
+      "crashs-legacy:funnysound/magic_squash"
+    ]
+  },
+  "lightning.meow": {
+    "sounds": [
+      "crashs-legacy:funnysound/meow"
+    ]
+  },
+  "lightning.moan": {
+    "sounds": [
+      "crashs-legacy:funnysound/moan-1",
+      "crashs-legacy:funnysound/moan-2",
+      "crashs-legacy:funnysound/moan-3",
+      "crashs-legacy:funnysound/moan-4"
+    ]
+  },
+  "lightning.nya": {
+    "sounds": [
+      "crashs-legacy:funnysound/nya"
+    ]
+  },
+  "lightning.osu": {
+    "sounds": [
+      "crashs-legacy:funnysound/osu"
+    ]
+  },
+  "lightning.pop": {
+    "sounds": [
+      "crashs-legacy:funnysound/pop"
+    ]
+  },
+  "lightning.schoolboy": {
+    "sounds": [
+      "crashs-legacy:funnysound/schoolboy"
+    ]
+  },
+  "lightning.skeet": {
+    "sounds": [
+      "crashs-legacy:funnysound/skeet"
+    ]
+  },
+  "lightning.slap": {
+    "sounds": [
+      "crashs-legacy:funnysound/slap"
+    ]
+  },
+  "lightning.soft": {
+    "sounds": [
+      "crashs-legacy:funnysound/soft"
+    ]
+  },
+  "lightning.squash": {
+    "sounds": [
+      "crashs-legacy:funnysound/squash"
+    ]
+  },
+  "lightning.tf2-crit": {
+    "sounds": [
+      "crashs-legacy:funnysound/tf2-crit"
+    ]
+  },
+  "lightning.tung": {
+    "sounds": [
+      "crashs-legacy:funnysound/tung"
+    ]
+  },
+  "lightning.uwu": {
+    "sounds": [
+      "crashs-legacy:funnysound/uwu"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "enterOnOpen": false,
+  "actions": [
+    {
+      "id": "leave-party",
+      "name": "退出副本",
+      "icon": "minecraft:ender_pearl",
+      "operations": [
+        {
+          "type": "command",
+          "value": "leave",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795110874594",
+      "name": "杀戮光环",
+      "icon": "minecraft:iron_sword",
+      "operations": [
+        {
+          "type": "command",
+          "value": "aura",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795111028854",
+      "name": "回城",
+      "icon": "minecraft:beacon",
+      "operations": [
+        {
+          "type": "command",
+          "value": "hc",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795112472242",
+      "name": "自杀",
+      "icon": "minecraft:barrier",
+      "operations": [
+        {
+          "type": "command",
+          "value": "menu",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        },
+        {
+          "type": "wait_container",
+          "value": "无名纪行菜单",
+          "ticks": 0,
+          "ms": 10000,
+          "slot": 0,
+          "button": 0
+        },
+        {
+          "type": "click_slot",
+          "value": "",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 16,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138246972",
+      "name": "钓鱼模式",
+      "icon": "minecraft:fishing_rod",
+      "operations": [
+        {
+          "type": "command",
+          "value": "fishmode",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138274669",
+      "name": "加点页面",
+      "icon": "minecraft:player_head",
+      "operations": [
+        {
+          "type": "command",
+          "value": "ap",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138379803",
+      "name": "强化",
+      "icon": "minecraft:anvil",
+      "operations": [
+        {
+          "type": "command",
+          "value": "enhance",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138399917",
+      "name": "重铸",
+      "icon": "minecraft:grindstone",
+      "operations": [
+        {
+          "type": "command",
+          "value": "reforge",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138497454",
+      "name": "回收",
+      "icon": "minecraft:gold_ingot",
+      "operations": [
+        {
+          "type": "command",
+          "value": "回收",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138532117",
+      "name": "分解",
+      "icon": "minecraft:iron_nugget",
+      "operations": [
+        {
+          "type": "command",
+          "value": "分解",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795138596710",
+      "name": "查询溢出经验",
+      "icon": "minecraft:experience_bottle",
+      "operations": [
+        {
+          "type": "command",
+          "value": "myxp",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795140766796",
+      "name": "末影箱",
+      "icon": "minecraft:ender_chest",
+      "operations": [
+        {
+          "type": "command",
+          "value": "ec",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    },
+    {
+      "id": "quick-1795140805835",
+      "name": "称号",
+      "icon": "minecraft:name_tag",
+      "operations": [
+        {
+          "type": "command",
+          "value": "称号",
+          "ticks": 0,
+          "ms": 0,
+          "slot": 0,
+          "button": 0
+        }
+      ]
+    }
+  ]
+}

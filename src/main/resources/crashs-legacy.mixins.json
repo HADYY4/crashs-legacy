@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.crashs.crashslegacy.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "ClientPlayerEntityMixin",
+    "ClientPlayerInteractionManagerMixin",
+    "ClientPlayNetworkHandlerMixin",
+    "EntityS2CPacketAccessor",
+    "ClientWorldLightningMixin",
+    "ImGuiImplGlfwGateMixin",
+    "InGameHudMixin",
+    "LightningEntityRendererMixin",
+    "LightningEntitySoundMixin",
+    "LightningNetworkMixin",
+    "QuickActionIconRenderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,15 @@
+.gradle/
+build/
+run/
+out/
+.idea/
+*.iml
+bin/
+
+preview/imgui.ini
+.kotlin/
+
+imgui.ini
+
+hs_err_pid*.log
+replay_pid*.log
